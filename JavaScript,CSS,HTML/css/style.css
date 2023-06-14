@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+}
+
+#btnValidar{
+    padding: 5px;
+}
+
+.body input{
+    padding: 5px;
+}
+
+.footer{
+    padding: 5px;
+}
